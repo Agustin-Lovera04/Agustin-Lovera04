@@ -30,7 +30,6 @@ He tenido la oportunidad de participar en proyectos de diferentes escalas, desde
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Lovera04&layout=compact&theme=dark&bg_color=0A0A0A" alt="Agustín Lovera Lenguajes más usados"/>
 <br /><br />
 
-**¡Gracias por visitar mi perfil!** 😊  
 </div>
 
 ---
@@ -65,6 +64,7 @@ He tenido la oportunidad de participar en proyectos de diferentes escalas, desde
 
 </div>
 
+**¡Gracias por visitar mi perfil!** 😊  
 ---
 
 <div align="center">
