@@ -21,7 +21,7 @@ He tenido la oportunidad de participar en proyectos de diferentes escalas, desde
 🌎 Argentina.
 
 <br />
-📌 Visita mi portfolio: <a href="https://agustin-lovera04.github.io/PortFolio_Lovera/" target="_blank"><b>agustinlovera.dev</b></a>
+📌 Visita mi portfolio: <a href="https://agustin-lovera04.github.io/Portfolio/" target="_blank"><b>agustinlovera.dev</b></a>
 
 <br /><br />
 
